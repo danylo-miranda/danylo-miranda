@@ -1,12 +1,15 @@
 ![image](https://user-images.githubusercontent.com/131209067/235937186-4de8513c-1e2d-4f8d-81af-8501d1d32d4e.png)
 
-### Hi there 👋
-### I am Danylo Miranda
+# Olá a Todos
+## Eu sou Danylo Miranda
 
-- 🔭 I’m currently working on Data Analyst
-- 🌱 I’m currently learning Python
-- 
+---
 
+- 🔭 Atualmente trabalho como analista de dados 
+- 🌱 Estudando no momento Python, Pandas e SQL
+- ⚡ Turma Vamo Ai
+
+---
 
 <!--
 **ninylo/ninylo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
