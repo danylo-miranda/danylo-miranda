@@ -1,4 +1,4 @@
-[![banner] ![image](https://user-images.githubusercontent.com/131209067/235937186-4de8513c-1e2d-4f8d-81af-8501d1d32d4e.png)
+![image](https://user-images.githubusercontent.com/131209067/235937186-4de8513c-1e2d-4f8d-81af-8501d1d32d4e.png)
 
 ### Hi there 👋
 ### I am Danylo Miranda
