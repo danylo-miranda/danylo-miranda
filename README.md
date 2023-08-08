@@ -3,15 +3,15 @@
 ---
 🚀 Apaixonado por Inovação 🌍
 
-Olá! Eu sou Danylo Miranda, um entusiasta da inovação movido pela paixão em criar soluções transformadoras para desafios do mundo real. Recentemente, conquistei o 2° lugar no Hackathon - IdeiaGov, um evento realizado durante a Campus Party 15 em São Paulo, SP, em julho de 2023.
-
-Nesse evento, tive a oportunidade de fazer parte de uma equipe dedicada a encontrar soluções para o descarte adequado de resíduos sólidos urbanos. Nossa abordagem inovadora envolveu a criação de uma plataforma "Gamificada", que não apenas incentivava práticas sustentáveis, mas também promovia a conscientização sobre o impacto do descarte inadequado.
-
-Minha atuação nesse projeto incluiu a extração, manipulação e análise de dados quantitativos, uma habilidade essencial para identificar padrões e tendências que orientaram nossas decisões estratégicas. Além disso, utilizei metodologias ágeis, como SCRUM e KANBAN, para garantir um fluxo contínuo de entrega de valor e colaboração eficiente entre a equipe.
-
-Estou comprometido em utilizar meu conhecimento em desenvolvimento ágil, análise de dados e inovação para criar um impacto positivo na sociedade e no meio ambiente. Se você busca um profissional dedicado a desafios inspiradores e apaixonado por fazer a diferença, estou pronto para contribuir!
+Olá! Eu sou Danylo Miranda, um entusiasta da inovação movido pela paixão em criar soluções transformadoras para desafios do mundo real. Estou comprometido em utilizar meu conhecimento em desenvolvimento ágil, análise de dados e inovação para criar um impacto positivo na sociedade e no meio ambiente. Se você busca um profissional dedicado a desafios inspiradores e apaixonado por fazer a diferença, estou pronto para contribuir!
 
 Vamos conectar e explorar novas possibilidades juntos! 👋🌱
+
+## Portifólio 📃
+
+2° lugar no Hackathon - IdeiaGov, um evento realizado durante a Campus Party 15 em São Paulo, SP, em julho de 2023. Nesse evento, tive a oportunidade de fazer parte de uma equipe dedicada a encontrar soluções para o descarte adequado de resíduos sólidos urbanos. Nossa abordagem inovadora envolveu a criação de uma plataforma "Gamificada", que não apenas incentivava práticas sustentáveis, mas também promovia a conscientização sobre o impacto do descarte inadequado.
+
+Link 👉 https://github.com/danylo-miranda/SP-RECICLA.git
 
 
 ## Linguagens e bibliotecas que mais utilizo 
