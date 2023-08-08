@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/131209067/235937186-4de8513c-1e2d-4f8d-81af-8501d1d32d4e.png)
 
 ---
-🚀 Apaixonado por Inovação e Sustentabilidade 🌍
+🚀 Apaixonado por Inovação 🌍
 
 Olá! Eu sou Danylo Miranda, um entusiasta da inovação movido pela paixão em criar soluções transformadoras para desafios do mundo real. Recentemente, conquistei o 2° lugar no Hackathon - IdeiaGov, um evento realizado durante a Campus Party 15 em São Paulo, SP, em julho de 2023.
 
@@ -33,6 +33,8 @@ Vamos conectar e explorar novas possibilidades juntos! 👋🌱
 
 ---
 
+## Contato
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adm-danylo-miranda/)
 
 <!--
 **ninylo/ninylo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
