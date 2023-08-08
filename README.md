@@ -8,6 +8,13 @@
 * *Link 👉 https://github.com/danylo-miranda/SP-RECICLA.git*
 ---
 
+**Banco de Dados Relacionais**
+* *Projeto desenvolvido com objetivo de modelar e implementar um banco de dados*
+* *Link 👉 https://github.com/danylo-miranda/QUERY-AND-JOY-TECH.git*
+---
+
+
+
 ## Linguagens e bibliotecas que mais utilizo 
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -19,7 +26,6 @@
 
 ## Tecnologias que mais utilizo no dia a dia
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
