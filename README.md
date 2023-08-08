@@ -2,9 +2,10 @@
 
 ## Portifólio 📃
 
-* 2° lugar no Hackathon - IdeiaGov, um evento realizado durante a Campus Party 15 em São Paulo, SP, em julho de 2023. Nesse evento, tive a oportunidade de fazer parte de uma equipe dedicada a encontrar soluções para o descarte adequado de resíduos sólidos urbanos. Nossa abordagem inovadora envolveu a criação de uma plataforma "Gamificada", que não apenas incentivava práticas sustentáveis, mas também promovia a conscientização sobre o impacto do descarte inadequado.
+**2° lugar no Hackathon - IdeiaGov**
+* *Evento realizado durante a Campus Party 15 em São Paulo, SP, em julho de 2023. Nesse evento, tive a oportunidade de fazer parte de uma equipe dedicada a encontrar soluções para o descarte adequado de resíduos sólidos urbanos. Nossa abordagem inovadora envolveu a criação de uma plataforma "Gamificada", que não apenas incentivava práticas sustentáveis, mas também promovia a conscientização sobre o impacto do descarte inadequado.*
 
-Link 👉 https://github.com/danylo-miranda/SP-RECICLA.git
+* *Link 👉 https://github.com/danylo-miranda/SP-RECICLA.git*
 ---
 
 ## Linguagens e bibliotecas que mais utilizo 
