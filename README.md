@@ -13,7 +13,10 @@
 * *Link 👉 https://github.com/danylo-miranda/QUERY-AND-JOY-TECH.git*
 ---
 
-
+**Análise Exploratória**
+* *Obter indicadores de produção em uma equipe de desenvolvimento de software é essencial para medir a eficiência, identificar áreas de melhoria e tomar decisões informadas. Esses indicadores fornecem insights sobre velocidade, qualidade, eficácia e produtividade do time, auxiliando na otimização de processos, na alocação de recursos e no alcance de metas de entrega com maior eficácia e excelência. Esse relatório tem como objetivo gerar indicadores relacionados a produtividade de uma equipe de desenvolvimento de software ao longo de uma semana de trabalho.*
+* *Link 👉 https://github.com/danylo-miranda/Relatorio-produtividade-diaria.git*
+---
 
 ## Linguagens e bibliotecas que mais utilizo 
 
