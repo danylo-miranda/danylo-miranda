@@ -1,21 +1,14 @@
 ![image](https://user-images.githubusercontent.com/131209067/235937186-4de8513c-1e2d-4f8d-81af-8501d1d32d4e.png)
 
----
-🚀 Apaixonado por Inovação 🌍
-
-Olá! Eu sou Danylo Miranda, um entusiasta da inovação movido pela paixão em criar soluções transformadoras para desafios do mundo real. Estou comprometido em utilizar meu conhecimento em desenvolvimento ágil, análise de dados e inovação para criar um impacto positivo na sociedade e no meio ambiente. Se você busca um profissional dedicado a desafios inspiradores e apaixonado por fazer a diferença, estou pronto para contribuir!
-
-Vamos conectar e explorar novas possibilidades juntos! 👋🌱
-
 ## Portifólio 📃
 
-2° lugar no Hackathon - IdeiaGov, um evento realizado durante a Campus Party 15 em São Paulo, SP, em julho de 2023. Nesse evento, tive a oportunidade de fazer parte de uma equipe dedicada a encontrar soluções para o descarte adequado de resíduos sólidos urbanos. Nossa abordagem inovadora envolveu a criação de uma plataforma "Gamificada", que não apenas incentivava práticas sustentáveis, mas também promovia a conscientização sobre o impacto do descarte inadequado.
+* 2° lugar no Hackathon - IdeiaGov, um evento realizado durante a Campus Party 15 em São Paulo, SP, em julho de 2023. Nesse evento, tive a oportunidade de fazer parte de uma equipe dedicada a encontrar soluções para o descarte adequado de resíduos sólidos urbanos. Nossa abordagem inovadora envolveu a criação de uma plataforma "Gamificada", que não apenas incentivava práticas sustentáveis, mas também promovia a conscientização sobre o impacto do descarte inadequado.
 
 Link 👉 https://github.com/danylo-miranda/SP-RECICLA.git
-
+---
 
 ## Linguagens e bibliotecas que mais utilizo 
----
+
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -34,12 +27,20 @@ Link 👉 https://github.com/danylo-miranda/SP-RECICLA.git
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
----
+
+## Quem sou eu ?
+
+🚀 Apaixonado por Inovação 🌍
+
+Eu sou Danylo Miranda, um entusiasta da inovação movido pela paixão em criar soluções transformadoras para desafios do mundo real. Estou comprometido em utilizar meu conhecimento em desenvolvimento ágil, análise de dados e inovação para criar um impacto positivo na sociedade e no meio ambiente. Se você busca um profissional dedicado a desafios inspiradores e apaixonado por fazer a diferença, estou pronto para contribuir!
+
+Vamos conectar e explorar novas possibilidades juntos! 👋🌱
+
 
 ## Contato
+
 * Danylo Miranda
 * [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adm-danylo-miranda/)
-
 <!--
 **ninylo/ninylo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
