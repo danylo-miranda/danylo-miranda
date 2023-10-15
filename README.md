@@ -41,10 +41,7 @@
 
 🚀 Apaixonado por Inovação 🌍
 
-Eu sou Danylo Miranda, um entusiasta da inovação movido pela paixão em criar soluções transformadoras para desafios do mundo real. Estou comprometido em utilizar meu conhecimento em desenvolvimento ágil, análise de dados e inovação para criar um impacto positivo na sociedade. Se você busca um profissional dedicado a desafios inspiradores e apaixonado por fazer a diferença, estou pronto para contribuir!
-
-Vamos conectar e explorar novas possibilidades juntos! 👋🌱
-
+Desde o início da minha carreira, minha paixão sempre foi unir o mundo dos negócios e a tecnologia. Isso me impulsiona todos os dias, porque acredito que, ao fazê-lo, posso criar um impacto positivo na sociedade. Este é o meu propósito, a razão pela qual estou determinado a trabalhar com tecnologia.
 
 ## Contato
 
