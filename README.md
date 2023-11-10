@@ -8,9 +8,9 @@
 * *Link 👉 https://github.com/danylo-miranda/SP-RECICLA.git*
 ---
 
-**Banco de Dados Relacionais**
-* *Projeto desenvolvido com objetivo de modelar e implementar um banco de dados*
-* *Link 👉 https://github.com/danylo-miranda/QUERY-AND-JOY-TECH.git*
+**Analise de Rotatividade - TABLEAU**
+* *Compreender as motivações por trás da rotatividade de funcionários em uma empresa é fundamental para construir uma força de trabalho estável e produtiva. No ambiente empresarial dinâmico de hoje, é crucial examinar de perto as razões que levam os colaboradores a deixar a organização e os efeitos decorrentes dessa saída. A análise detalhada desses fatores não apenas lança luz sobre as áreas problemáticas dentro da empresa, mas também oferece insights valiosos para o desenvolvimento de estratégias de retenção de talentos eficazes.*
+* *Link 👉 https://github.com/danylo-miranda/Analise-rotatividade.git*
 ---
 
 **Análise Exploratória**
