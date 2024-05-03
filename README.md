@@ -1,4 +1,4 @@
-![image](https://i.imgur.com/W8FkS4f.png)
+![image](https://danylo-bucket.s3.amazonaws.com/img-portifolio/data-analyst.png)
 
 ## Portifólio 📃
 
