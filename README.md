@@ -1,7 +1,3 @@
-![image](https://danylo-bucket.s3.amazonaws.com/img-portifolio/danylo-miranda-analista-de-dados.png)
-
-
-
 ##  Conhecimentos e Habilidades
 
 | Linguagens e tecnologias que mais utilizo |
