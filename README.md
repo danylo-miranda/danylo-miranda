@@ -1,45 +1,67 @@
-##  Conhecimentos e Habilidades
+# Danylo Miranda
 
-| Linguagens e tecnologias que mais utilizo |
-|----------------|
+Desenvolvedor Back-end com foco em **Python e Java**, atuando na construção de **APIs REST**, 
+arquitetura de sistemas e integração de serviços.  
+Experiência prática com **cloud**, **ERP**, **automação de processos** e **projetos reais de negócio**.
 
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 	![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
+🌐 Portfólio: https://www.dsm.tec.br  
+💼 LinkedIn: https://www.linkedin.com/in/seuperfil  
 
-
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
-
-
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
-
-
-
-## Atitudes 📃
-
-**2° lugar no Hackathon - IdeiaGov**
-* *Evento realizado durante a Campus Party 15 em São Paulo, SP, em julho de 2023. Nesse evento, tive a oportunidade de fazer parte de uma equipe dedicada a encontrar soluções para o descarte adequado de resíduos sólidos urbanos. Nossa abordagem inovadora envolveu a criação de uma plataforma "Gamificada", que não apenas incentivava práticas sustentáveis, mas também promovia a conscientização sobre o impacto do descarte inadequado.*
-
-* *Link 👉 https://github.com/danylo-miranda/SP-RECICLA.git*
 ---
 
-**Analise de Rotatividade - TABLEAU**
-* *Compreender as motivações por trás da rotatividade de funcionários em uma empresa é fundamental para construir uma força de trabalho estável e produtiva. No ambiente empresarial dinâmico de hoje, é crucial examinar de perto as razões que levam os colaboradores a deixar a organização e os efeitos decorrentes dessa saída. A análise detalhada desses fatores não apenas lança luz sobre as áreas problemáticas dentro da empresa, mas também oferece insights valiosos para o desenvolvimento de estratégias de retenção de talentos eficazes.*
-* *Link 👉 https://github.com/danylo-miranda/Analise-rotatividade.git*
+## 🚀 Principais Tecnologias
+
+- **Back-end:** Python (Django, FastAPI), Java (Spring Boot)
+- **Banco de Dados:** PostgreSQL, MySQL, DynamoDB
+- **Infraestrutura:** AWS, Google Cloud Platform
+- **DevOps:** Docker, Git, CI/CD
+- **Arquitetura:** APIs REST, JWT, Integrações, Webhooks
+
 ---
 
-**Análise Exploratória**
-* *Obter indicadores de produção em uma equipe de desenvolvimento de software é essencial para medir a eficiência, identificar áreas de melhoria e tomar decisões informadas. Esses indicadores fornecem insights sobre velocidade, qualidade, eficácia e produtividade do time, auxiliando na otimização de processos, na alocação de recursos e no alcance de metas de entrega com maior eficácia e excelência. Esse relatório tem como objetivo gerar indicadores relacionados a produtividade de uma equipe de desenvolvimento de software ao longo de uma semana de trabalho.*
-* *Link 👉 https://github.com/danylo-miranda/Relatorio-produtividade-diaria.git*
+## 🧩 Projetos em Destaque
+
+### 🔹 ERP Estética JS (Projeto Principal)
+Sistema ERP modular inspirado no Odoo, desenvolvido para atender uma operação real de e-commerce multicanal.
+
+**Funcionalidades:**
+- APIs REST para clientes, produtos, pedidos e financeiro
+- Autenticação stateless com JWT
+- Arquitetura modular baseada em domínios
+- Deploy em cloud
+
+🔗 Repositório: *(em breve / versão demo)*
+
 ---
 
+### 🔹 SP-RECICLA — Hackathon IdeiaGov (2º lugar)
+Projeto desenvolvido durante a Campus Party 15 (São Paulo – 2023), com foco em descarte adequado de resíduos sólidos urbanos por meio de uma plataforma gamificada.
 
+🔗 https://github.com/danylo-miranda/SP-RECICLA.git
 
-## Quem sou eu ?
+---
 
-🚀 Apaixonado por Inovação 🌍
+### 🔹 Análise de Rotatividade de Funcionários
+Projeto de análise de dados voltado à compreensão de turnover e retenção de talentos.
 
-Desde o início da minha carreira, minha paixão sempre foi unir o mundo dos negócios e a tecnologia. Isso me impulsiona todos os dias, porque acredito que, ao fazê-lo, posso criar um impacto positivo na sociedade. Este é o meu propósito, a razão pela qual estou determinado a trabalhar com tecnologia.
+🔗 https://github.com/danylo-miranda/Analise-rotatividade.git
 
-## Contato
+---
 
-* [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adm-danylo-miranda/)
+### 🔹 Indicadores de Produtividade em Times de Desenvolvimento
+Análise exploratória para geração de indicadores de produtividade em equipes de software.
+
+🔗 https://github.com/danylo-miranda/Relatorio-produtividade-diaria.git
+
+---
+
+## 🎯 Objetivo Profissional
+
+Atuar como **Desenvolvedor Back-end** em projetos desafiadores, preferencialmente em ambiente remoto, 
+contribuindo com soluções escaláveis, bem estruturadas e alinhadas a necessidades reais de negócio.
+
+---
+
+## 📫 Contato
+
+- LinkedIn: https://www.linkedin.com/in/dev-danylo-miranda
