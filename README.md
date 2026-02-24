@@ -1,6 +1,6 @@
 # Danylo Miranda
 
-Desenvolvedor Back-end com foco em **Python e Java**, atuando na construção de **APIs REST**, 
+Desenvolvedor FullStack com foco em Backend **Python e Java**, atuando na construção de **APIs REST**, 
 arquitetura de sistemas e integração de serviços.  
 Experiência prática com **cloud**, **ERP**, **automação de processos** e **projetos reais de negócio**.
 
@@ -21,7 +21,7 @@ Experiência prática com **cloud**, **ERP**, **automação de processos** e **p
 
 ## 🧩 Projetos em Destaque
 
-### 🔹 ERP Estética JS (Projeto Principal)
+### 🔹 ERP Estética JS
 Sistema ERP modular inspirado no Odoo, desenvolvido para atender uma operação real de e-commerce multicanal.
 
 **Funcionalidades:**
