@@ -21,7 +21,7 @@ Experiência prática com **cloud**, **ERP**, **automação de processos** e **p
 
 ## 🧩 Projetos em Destaque
 
-### 🔹 ERP Estética JS
+### 🔹 Odoo ERP
 Sistema ERP modular inspirado no Odoo, desenvolvido para atender uma operação real de e-commerce multicanal.
 
 **Funcionalidades:**
@@ -30,7 +30,7 @@ Sistema ERP modular inspirado no Odoo, desenvolvido para atender uma operação 
 - Arquitetura modular baseada em domínios
 - Deploy em cloud
 
-🔗 Repositório: *(em breve / versão demo)*
+🔗 Repositório: https://github.com/danylo-miranda/odoo-erp
 
 ---
 
@@ -57,7 +57,7 @@ Análise exploratória para geração de indicadores de produtividade em equipes
 
 ## 🎯 Objetivo Profissional
 
-Atuar como **Desenvolvedor Back-end** em projetos desafiadores, preferencialmente em ambiente remoto, 
+Atuar como **Desenvolvedor Backend** em projetos desafiadores, preferencialmente em ambiente remoto, 
 contribuindo com soluções escaláveis, bem estruturadas e alinhadas a necessidades reais de negócio.
 
 ---
